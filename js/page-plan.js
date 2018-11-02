@@ -1,5 +1,5 @@
 $(function () {
-    // 222
+    // 分支hrlloWord2测试
     var papersLayer = $("#papers-layer");//版面弹出层
     var columnsLayer = $("#columns-layer");//版面弹出层
 
