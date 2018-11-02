@@ -1,0 +1,42 @@
+[
+  {
+    "categoryName": "",
+    "layoutName": "1版",
+    "categoryId": "",
+    "columnName": "栏目一,栏目二",
+    "layoutId": 2,
+    "columnId": "2,3",
+    "paperPlanPage": 1,
+    "layoutCode": "1b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "2版",
+    "categoryId": "",
+    "columnName": "栏目三,栏目四",
+    "layoutId": 3,
+    "columnId": "12,13",
+    "paperPlanPage": 1,
+    "layoutCode": "2b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "3版",
+    "categoryId": "",
+    "columnName": "栏目五，栏目六",
+    "layoutId": 15,
+    "columnId": "14,15",
+    "paperPlanPage": 1,
+    "layoutCode": "3b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "4版",
+    "categoryId": "",
+    "columnName": "栏目七,栏目八",
+    "layoutId": 16,
+    "columnId": "16,17",
+    "paperPlanPage": 1,
+    "layoutCode": "4b"
+  }
+]

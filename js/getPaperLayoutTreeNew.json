@@ -1,0 +1,322 @@
+[
+  {
+    "id": 2,
+    "name": "1版",
+    "layoutCode": "1b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 3,
+    "name": "2版",
+    "layoutCode": "2b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 15,
+    "name": "3版",
+    "layoutCode": "3b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 16,
+    "name": "4版",
+    "layoutCode": "4b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 17,
+    "name": "5版",
+    "layoutCode": "5b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 18,
+    "name": "6版",
+    "layoutCode": "6b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 19,
+    "name": "7版",
+    "layoutCode": "7b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 20,
+    "name": "8版",
+    "layoutCode": "8b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 21,
+    "name": "9版",
+    "layoutCode": "9b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 22,
+    "name": "10版",
+    "layoutCode": "10b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 23,
+    "name": "11版",
+    "layoutCode": "11b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 24,
+    "name": "12版",
+    "layoutCode": "12b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 25,
+    "name": "13版",
+    "layoutCode": "13b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 26,
+    "name": "14版",
+    "layoutCode": "14b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 27,
+    "name": "15版",
+    "layoutCode": "15b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 28,
+    "name": "16版",
+    "layoutCode": "16b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 29,
+    "name": "17版",
+    "layoutCode": "17b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 30,
+    "name": "18版",
+    "layoutCode": "18b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 31,
+    "name": "19版",
+    "layoutCode": "19b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 32,
+    "name": "20版",
+    "layoutCode": "20b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 33,
+    "name": "21版",
+    "layoutCode": "21b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 34,
+    "name": "22版",
+    "layoutCode": "22b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 35,
+    "name": "23版",
+    "layoutCode": "23b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 36,
+    "name": "24版",
+    "layoutCode": "24b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 38,
+    "name": "25版",
+    "layoutCode": "25b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 39,
+    "name": "26版",
+    "layoutCode": "26b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 40,
+    "name": "27版",
+    "layoutCode": "27b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 41,
+    "name": "28版",
+    "layoutCode": "28b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 42,
+    "name": "29版",
+    "layoutCode": "29b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 43,
+    "name": "30版",
+    "layoutCode": "30b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 44,
+    "name": "31版",
+    "layoutCode": "31b",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": false,
+    "columnid": 0,
+    "pid": 1
+  },
+  {
+    "id": 64,
+    "name": "A叠",
+    "layoutCode": "AD1",
+    "paperId": 1,
+    "layoutLevel": 2,
+    "isParent": true,
+    "columnid": 0,
+    "pid": 1
+  }
+]

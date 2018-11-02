@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>版面规划</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/datetimepicker.css">
+<link rel="stylesheet" href="css/zTreeStyle/zTreeStyle.css">
+<script src="js/jquery-2.2.0.min.js"></script>
+<script src="js/handlebars.js"></script>
+<script src="js/datetimepicker.js"></script>
+<script src="js/jquery.ztree.core.js"></script>
+<script src="js/page-plan.js"></script>
+
+
+</head>
+<body>
+<div class="header">
+    <a href="#" class="logo">方正版面规划</a>
+    <ul class="nav">
+        <li class="cur"><a href="#">规划</a></li>
+        <li><a href="#">调版</a></li>
+        <li><a href="#">代印点</a></li>
+    </ul>
+</div>
+<div class="wrap">
+    <div class="left-menu">
+        <ul id="treeDemo" class="ztree">
+        </ul>
+    </div>
+    <div class="right-box clearfix">
+        <div class="tag-item">
+            <div class="tag-buttons">
+                <a href="javascript:;" class="btn" id="savePaperPlanData"><i class="tag-icon save"></i>保存</a>
+            </div>
+            <div class="databox">
+                <span class="adnum">广告总条数：556条</span>
+                <input type="text" class="choose-time" value="">
+                <a href="javascript:window.print()" class="print-btn" title="打印"></a>
+            </div>
+        </div>
+        <div class="paper-box">
+            <ul id="paper-big-box" class="paper-big-box">
+
+            </ul>
+            <a class="add-paper" href="javascript:;">
+                <i class="add-icon">+</i>
+                添加纸张
+            </a>
+            <script id="paper-big-temp" type="text/x-handlebars-template">
+                <li class="paper-big">
+                    <p class="ranks"></p>
+                    <div class="paper-small">
+                        <div class="paper-small-top">
+                            <span class="select-paper-add">+</span>
+                            <a href="javascript:;" class="select-paper">+选择版面</a>
+                        </div>
+                        <div class="paper-small-bottom">
+                            <div class="add-column-box">
+                                <a href="javascript:;" class="add-column-btn btn-big">+</a>
+                            </div>
+                            <div class="add-column-box hide">
+                                <a href="javascript:;" class="add-column-btn btn-big">+</a>
+                            </div>
+                            <div class="add-column-box hide">
+                                <a href="javascript:;" class="add-column-btn btn-big">+</a>
+                            </div>
+                        </div>
+                        <a href="#" class="zhi-icon">置</a>
+                        <a href="" class="ad-text">广</a>
+                    </div>
+                    <div class="paper-small">
+                        <div class="paper-small-top">
+                            <span class="select-paper-add">+</span>
+                            <a href="javascript:;" class="select-paper">+选择版面</a>
+                        </div>
+                        <div class="paper-small-bottom">
+                            <div class="add-column-box">
+                                <a href="javascript:;" class="add-column-btn btn-big">+</a>
+                            </div>
+                            <div class="add-column-box hide">
+                                <a href="javascript:;" class="add-column-btn btn-big">+</a>
+                            </div>
+                            <div class="add-column-box hide">
+                                <a href="javascript:;" class="add-column-btn btn-big">+</a>
+                            </div>
+                        </div>
+                        <a href="#" class="zhi-icon">置</a>
+                        <a href="" class="ad-text">广</a>
+                    </div>
+                    <div class="paper-small">
+                        <div class="paper-small-top">
+                            <span class="select-paper-add">+</span>
+                            <a href="javascript:;" class="select-paper">+选择版面</a>
+                        </div>
+                        <div class="paper-small-bottom">
+                            <div class="add-column-box">
+                                <a href="javascript:;" class="add-column-btn btn-big">+</a>
+                            </div>
+                            <div class="add-column-box hide">
+                                <a href="javascript:;" class="add-column-btn btn-big">+</a>
+                            </div>
+                            <div class="add-column-box hide">
+                                <a href="javascript:;" class="add-column-btn btn-big">+</a>
+                            </div>
+                        </div>
+                        <a href="#" class="zhi-icon">置</a>
+                        <a href="" class="ad-text">广</a>
+                    </div>
+                    <div class="paper-small">
+                        <div class="paper-small-top">
+                            <span class="select-paper-add">+</span>
+                            <a href="javascript:;" class="select-paper">+选择版面</a>
+                        </div>
+                        <div class="paper-small-bottom">
+                            <div class="add-column-box">
+                                <a href="javascript:;" class="add-column-btn btn-big">+</a>
+                            </div>
+                            <div class="add-column-box hide">
+                                <a href="javascript:;" class="add-column-btn btn-big">+</a>
+                            </div>
+                            <div class="add-column-box hide">
+                                <a href="javascript:;" class="add-column-btn btn-big">+</a>
+                            </div>
+                        </div>
+                        <a href="#" class="zhi-icon">置</a>
+                        <a href="" class="ad-text">广</a>
+                    </div>
+                </li>
+            </script>
+            <script id="paper-get-temp" type="text/x-handlebars-template">
+                <li class="paper-big">
+                    <p class="ranks"></p>
+                </li>
+            </script>
+        </div>
+    </div>
+</div>
+
+<div class="columns-layer winBox" id="columns-layer"><a href="javascript:;" class="close-layer">×</a></div>
+<div class="papers-layer winBox" id="papers-layer"><a href="javascript:;" class="close-layer">×</a></div>
+</body>
+</html>

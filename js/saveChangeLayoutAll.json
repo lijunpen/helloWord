@@ -1,0 +1,47 @@
+[
+    {
+        "layoutid": "2",
+        "layoutName": "1版",
+        "category": "福州日报,东莞日报,河北日报", //代表地方报
+        "categoryId": "176,175,174",//代表地方报id
+        "column": [//每个地方报下对应的栏目
+            {
+                "categoryId": "176",
+                "columnIds": "2,3",
+                "columnNames": "栏目一,栏目二"
+            },
+            {
+                "categoryId": "175",
+                "columnIds": "12,13",
+                "columnNames": "栏目三,栏目四"
+            },
+            {
+                "categoryId": "174",
+                "columnIds": "12,13",
+                "columnNames": "栏目三,栏目四"
+            }
+        ]
+    },{
+    "layoutid": "2",
+    "layoutName": "1版",
+    "category": "天津日报,北京日报,河南日报", //代表地方报
+    "categoryId": "173,172,171",//代表地方报id
+    "column": [//每个地方报下对应的栏目
+        {
+            "categoryId": "173",
+            "columnIds": "2,3",
+            "columnNames": "栏目一,栏目二"
+        },
+        {
+            "categoryId": "172",
+            "columnIds": "12,13",
+            "columnNames": "栏目三,栏目四"
+        },
+        {
+            "categoryId": "171",
+            "columnIds": "12,13",
+            "columnNames": "栏目三,栏目四"
+        }
+    ]
+}
+]

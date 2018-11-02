@@ -1,0 +1,83 @@
+[
+    {
+        "entry_CASCADE_NAME": "东莞日报",
+        "entry_LEVEL": 0,
+        "entry_ID": 175,
+        "parent_ID": 0,
+        "entry_NAME": "东莞日报",
+        "entry_CODE": "DGRB",
+        "wt_TYPE": 19
+    },
+    {
+        "entry_CASCADE_NAME": "天津日报",
+        "entry_LEVEL": 0,
+        "entry_ID": 178,
+        "parent_ID": 0,
+        "entry_NAME": "天津日报",
+        "entry_CODE": "TJRB",
+        "wt_TYPE": 19
+    },
+    {
+        "entry_CASCADE_NAME": "上海日报",
+        "entry_LEVEL": 0,
+        "entry_ID": 179,
+        "parent_ID": 0,
+        "entry_NAME": "上海日报",
+        "entry_CODE": "SHRB",
+        "wt_TYPE": 19
+    },
+    {
+        "entry_CASCADE_NAME": "河北日报",
+        "entry_LEVEL": 0,
+        "entry_ID": 180,
+        "parent_ID": 0,
+        "entry_NAME": "河北日报",
+        "entry_CODE": "HBRB",
+        "wt_TYPE": 19
+    },
+    {
+        "entry_CASCADE_NAME": "郑州日报",
+        "entry_LEVEL": 0,
+        "entry_ID": 181,
+        "parent_ID": 0,
+        "entry_NAME": "郑州日报",
+        "entry_CODE": "ZZRB",
+        "wt_TYPE": 19
+    },
+    {
+        "entry_CASCADE_NAME": "长春日报",
+        "entry_LEVEL": 0,
+        "entry_ID": 182,
+        "parent_ID": 0,
+        "entry_NAME": "长春日报",
+        "entry_CODE": "CCRB",
+        "wt_TYPE": 19
+    },
+    {
+        "entry_CASCADE_NAME": "张家口日报",
+        "entry_LEVEL": 0,
+        "entry_ID": 183,
+        "parent_ID": 0,
+        "entry_NAME": "张家口日报",
+        "entry_CODE": "ZJKRB",
+        "wt_TYPE": 19
+    },
+    {
+        "entry_CASCADE_NAME": "石家庄日报",
+        "entry_LEVEL": 0,
+        "entry_ID": 184,
+        "parent_ID": 0,
+        "entry_NAME": "石家庄日报",
+        "entry_CODE": "SJZRB",
+        "wt_TYPE": 19
+    },
+    {
+        "entry_CASCADE_NAME": "廊坊日报",
+        "entry_LEVEL": 0,
+        "entry_ID": 185,
+        "parent_ID": 0,
+        "entry_NAME": "廊坊日报",
+        "entry_CODE": "LFRB",
+        "wt_TYPE": 19
+    }
+]

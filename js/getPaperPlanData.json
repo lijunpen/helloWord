@@ -1,0 +1,121 @@
+[
+  {
+    "categoryName": "",
+    "layoutName": "1版",
+    "categoryId": "",
+    "columnName": "栏目一,栏目二",
+    "layoutId": 2,
+    "columnId": "2,3",
+    "paperPlanPage": 1,
+    "layoutCode": "1b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "2版",
+    "categoryId": "",
+    "columnName": "栏目三,栏目四",
+    "layoutId": 3,
+    "columnId": "12,13",
+    "paperPlanPage": 1,
+    "layoutCode": "2b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "3版",
+    "categoryId": "",
+    "columnName": "栏目五,栏目六",
+    "layoutId": 15,
+    "columnId": "14,15",
+    "paperPlanPage": 1,
+    "layoutCode": "3b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "4版",
+    "categoryId": "",
+    "columnName": "栏目七,栏目八,栏目九",
+    "layoutId": 16,
+    "columnId": "16,17,19",
+    "paperPlanPage": 1,
+    "layoutCode": "4b"
+  },
+  {"categoryName": "",
+  "layoutName": "5版",
+  "categoryId": "",
+  "columnName": "栏目十,栏目十一",
+  "layoutId": 2,
+  "columnId": "2,3",
+  "paperPlanPage": 1,
+  "layoutCode": "1b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "6版",
+    "categoryId": "",
+    "columnName": "栏目十二,栏目十三",
+    "layoutId": 3,
+    "columnId": "12,13",
+    "paperPlanPage": 1,
+    "layoutCode": "2b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "7版",
+    "categoryId": "",
+    "columnName": "栏目十四,栏目十五",
+    "layoutId": 15,
+    "columnId": "14,15",
+    "paperPlanPage": 1,
+    "layoutCode": "3b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "8版",
+    "categoryId": "",
+    "columnName": "栏目十六,栏目十七",
+    "layoutId": 16,
+    "columnId": "16,17",
+    "paperPlanPage": 1,
+    "layoutCode": "4b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "9版",
+    "categoryId": "",
+    "columnName": "栏目十八,栏目十九",
+    "layoutId": 16,
+    "columnId": "16,17",
+    "paperPlanPage": 1,
+    "layoutCode": "4b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "10版",
+    "categoryId": "",
+    "columnName": "栏目七,栏目八",
+    "layoutId": 16,
+    "columnId": "16,17",
+    "paperPlanPage": 1,
+    "layoutCode": "4b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "11版",
+    "categoryId": "",
+    "columnName": "栏目七,栏目八",
+    "layoutId": 16,
+    "columnId": "16,17",
+    "paperPlanPage": 1,
+    "layoutCode": "4b"
+  },
+  {
+    "categoryName": "",
+    "layoutName": "12版",
+    "categoryId": "",
+    "columnName": "栏目七,栏目八",
+    "layoutId": 16,
+    "columnId": "16,17",
+    "paperPlanPage": 1,
+    "layoutCode": "4b"
+  }
+]

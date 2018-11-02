@@ -1,0 +1,10 @@
+{
+  "layoutId": 1,
+  "layoutName": "广州日报",  //代表广州日报
+  "layoutCode": "hbrb",
+  "layoutLevel": 1,
+  "parentId": 0,
+  "layoutOrder": 1,
+  "layoutType": 1,
+  "paperId": 1
+}
