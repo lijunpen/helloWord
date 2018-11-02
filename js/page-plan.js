@@ -1,5 +1,5 @@
 $(function () {
-    //测试一下
+    //测试远程修改本地获取
     var papersLayer = $("#papers-layer");//版面弹出层
     var columnsLayer = $("#columns-layer");//版面弹出层
 
